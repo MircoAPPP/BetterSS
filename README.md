@@ -49,8 +49,7 @@ A comprehensive Minecraft Spigot plugin for managing screenshare sessions with a
 
 1. **Download the Plugin**
    ```bash
-   # Download the latest release
-   wget https://github.com/your-repo/screenshare-plugin/releases/latest/screenshare-1.0.0-all.jar
+   Download from releases
    ```
 
 2. **Install the Plugin**
