@@ -423,7 +423,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/your-username/screenshare-plugin.git
+   git clone https://github.com/MircoAPPP/BetterSS.git
    cd screenshare-plugin
    ```
 
@@ -447,7 +447,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/screenshare-plugin.git
+git clone https://github.com/MircoAPPP/BetterSS.git
 cd screenshare-plugin
 
 # Build the plugin
@@ -470,7 +470,7 @@ ls build/libs/screenshare-*.jar
 
 ## 🐛 Bug Reports
 
-Please report bugs using the [GitHub Issues](https://github.com/your-repo/screenshare-plugin/issues) page.
+Please report bugs using the [GitHub Issues](https://github.com/MircoAPPP/BetterSS/issues) page.
 
 Include:
 - Server version (Spigot/Paper)
@@ -483,7 +483,7 @@ Include:
 ## 💬 Support
 
 - **Discord**: Coming soon
-- **GitHub Issues**: [Report bugs or request features](https://github.com/your-repo/screenshare-plugin/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/MircoAPPP/BetterSS/issues)
 
 ## 📄 License
 
